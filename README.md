@@ -1,4 +1,4 @@
 # proposal-example
 
 
-this is my project im going to make a square
+this is my project im going to make a website for antisocial people
